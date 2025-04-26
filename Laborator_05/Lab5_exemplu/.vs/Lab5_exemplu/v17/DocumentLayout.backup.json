@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Lab5_exemplu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|solutionrelative:Lab5_exemplu\\Lab5_exemplu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|solutionrelative:Lab5_exemplu\\Tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\CercRepository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|solutionrelative:Lab5_exemplu\\CercRepository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\CercRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|solutionrelative:Lab5_exemplu\\CercRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\CercService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|solutionrelative:Lab5_exemplu\\CercService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Tests.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|solutionrelative:Lab5_exemplu\\Tests.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|solutionrelative:Lab5_exemplu\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\CercService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|solutionrelative:Lab5_exemplu\\CercService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|solutionrelative:Lab5_exemplu\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Cerc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|solutionrelative:Lab5_exemplu\\Cerc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Cerc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF84183-7358-43EB-BE89-DD96957D4C62}|Lab5_exemplu\\Lab5_exemplu.vcxproj|solutionrelative:Lab5_exemplu\\Cerc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tests.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Tests.cpp",
+              "RelativeDocumentMoniker": "Lab5_exemplu\\Tests.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Tests.cpp",
+              "RelativeToolTip": "Lab5_exemplu\\Tests.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T08:44:22.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tests.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Tests.h",
+              "RelativeDocumentMoniker": "Lab5_exemplu\\Tests.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Tests.h",
+              "RelativeToolTip": "Lab5_exemplu\\Tests.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T08:44:15.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UI.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\UI.cpp",
+              "RelativeDocumentMoniker": "Lab5_exemplu\\UI.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\UI.cpp",
+              "RelativeToolTip": "Lab5_exemplu\\UI.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T08:39:26.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UI.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\UI.h",
+              "RelativeDocumentMoniker": "Lab5_exemplu\\UI.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\UI.h",
+              "RelativeToolTip": "Lab5_exemplu\\UI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T08:39:14.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CercService.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\CercService.cpp",
+              "RelativeDocumentMoniker": "Lab5_exemplu\\CercService.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\CercService.cpp",
+              "RelativeToolTip": "Lab5_exemplu\\CercService.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T08:33:37.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CercService.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\CercService.h",
+              "RelativeDocumentMoniker": "Lab5_exemplu\\CercService.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\CercService.h",
+              "RelativeToolTip": "Lab5_exemplu\\CercService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T08:33:14.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CercRepository.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\CercRepository.cpp",
+              "RelativeDocumentMoniker": "Lab5_exemplu\\CercRepository.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\CercRepository.cpp",
+              "RelativeToolTip": "Lab5_exemplu\\CercRepository.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T08:32:04.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CercRepository.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\CercRepository.h",
+              "RelativeDocumentMoniker": "Lab5_exemplu\\CercRepository.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\CercRepository.h",
+              "RelativeToolTip": "Lab5_exemplu\\CercRepository.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T08:30:30.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cerc.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Cerc.cpp",
+              "RelativeDocumentMoniker": "Lab5_exemplu\\Cerc.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Cerc.cpp",
+              "RelativeToolTip": "Lab5_exemplu\\Cerc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T08:26:35.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cerc.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Cerc.h",
+              "RelativeDocumentMoniker": "Lab5_exemplu\\Cerc.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Cerc.h",
+              "RelativeToolTip": "Lab5_exemplu\\Cerc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T08:26:22.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab5_exemplu.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Lab5_exemplu.cpp",
+              "RelativeDocumentMoniker": "Lab5_exemplu\\Lab5_exemplu.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Lab5_exemplu\\Lab5_exemplu\\Lab5_exemplu.cpp",
+              "RelativeToolTip": "Lab5_exemplu\\Lab5_exemplu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T08:20:37.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

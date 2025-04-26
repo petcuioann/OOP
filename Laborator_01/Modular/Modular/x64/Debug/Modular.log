@@ -1,0 +1,8 @@
+﻿  Modular.cpp
+  probleme.cpp
+  utils.cpp
+  Generating Code...
+C:\Users\ipetc\OneDrive\Desktop\OOP\Laborator_01\Modular\Modular\probleme.cpp(149,13): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1252)
+C:\Users\ipetc\OneDrive\Desktop\OOP\Laborator_01\Modular\Modular\probleme.cpp(149,13): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\ipetc\OneDrive\Desktop\OOP\Laborator_01\Modular\Modular\probleme.cpp(182,13): warning C4566: character represented by universal-character-name '\u2208' cannot be represented in the current code page (1252)
+  Modular.vcxproj -> C:\Users\ipetc\OneDrive\Desktop\OOP\Laborator_01\Modular\x64\Debug\Modular.exe

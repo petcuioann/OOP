@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\DreptunghiService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\DreptunghiService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\CercService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\CercService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\DreptunghiService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\DreptunghiService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Dreptunghi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\Dreptunghi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\CercService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\CercService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Complet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\Complet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Patrat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\Patrat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Repository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\Repository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Repository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\Repository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Triunghi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\Triunghi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Patrat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\Patrat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\NumarComplex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\NumarComplex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Dreptunghi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\Dreptunghi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Cerc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\Cerc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Triunghi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\Triunghi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\NumarComplex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\NumarComplex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Cerc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\Cerc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\NumarComplexService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\NumarComplexService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\TriunghiService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\TriunghiService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\TriunghiService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\TriunghiService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\PatratService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\PatratService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\PatratService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90FAB96A-87CB-4E4D-B654-020B8F4C2B8B}|Complet\\Complet.vcxproj|solutionrelative:Complet\\PatratService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DreptunghiService.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\DreptunghiService.cpp",
+              "RelativeDocumentMoniker": "Complet\\DreptunghiService.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\DreptunghiService.cpp",
+              "RelativeToolTip": "Complet\\DreptunghiService.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvzAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T10:32:07.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DreptunghiService.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\DreptunghiService.h",
+              "RelativeDocumentMoniker": "Complet\\DreptunghiService.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\DreptunghiService.h",
+              "RelativeToolTip": "Complet\\DreptunghiService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T10:31:59.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CercService.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\CercService.cpp",
+              "RelativeDocumentMoniker": "Complet\\CercService.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\CercService.cpp",
+              "RelativeToolTip": "Complet\\CercService.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T10:13:07.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\UI.cpp",
+              "RelativeDocumentMoniker": "Complet\\UI.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\UI.cpp",
+              "RelativeToolTip": "Complet\\UI.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T09:35:38.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CercService.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\CercService.h",
+              "RelativeDocumentMoniker": "Complet\\CercService.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\CercService.h",
+              "RelativeToolTip": "Complet\\CercService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T10:26:02.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dreptunghi.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Dreptunghi.cpp",
+              "RelativeDocumentMoniker": "Complet\\Dreptunghi.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Dreptunghi.cpp",
+              "RelativeToolTip": "Complet\\Dreptunghi.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T10:09:25.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cerc.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Cerc.cpp",
+              "RelativeDocumentMoniker": "Complet\\Cerc.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Cerc.cpp",
+              "RelativeToolTip": "Complet\\Cerc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T10:09:19.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Triunghi.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Triunghi.h",
+              "RelativeDocumentMoniker": "Complet\\Triunghi.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Triunghi.h",
+              "RelativeToolTip": "Complet\\Triunghi.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T10:08:48.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NumarComplex.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\NumarComplex.h",
+              "RelativeDocumentMoniker": "Complet\\NumarComplex.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\NumarComplex.h",
+              "RelativeToolTip": "Complet\\NumarComplex.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T10:08:39.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patrat.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Patrat.h",
+              "RelativeDocumentMoniker": "Complet\\Patrat.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Patrat.h",
+              "RelativeToolTip": "Complet\\Patrat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T10:08:28.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Complet.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Complet.cpp",
+              "RelativeDocumentMoniker": "Complet\\Complet.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Complet.cpp",
+              "RelativeToolTip": "Complet\\Complet.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T06:34:53.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Triunghi.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Triunghi.cpp",
+              "RelativeDocumentMoniker": "Complet\\Triunghi.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Triunghi.cpp",
+              "RelativeToolTip": "Complet\\Triunghi.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T10:09:58.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Repository.h",
+              "RelativeDocumentMoniker": "Complet\\Repository.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Repository.h",
+              "RelativeToolTip": "Complet\\Repository.h",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T10:10:35.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dreptunghi.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Dreptunghi.h",
+              "RelativeDocumentMoniker": "Complet\\Dreptunghi.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Dreptunghi.h",
+              "RelativeToolTip": "Complet\\Dreptunghi.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T10:08:16.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NumarComplex.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\NumarComplex.cpp",
+              "RelativeDocumentMoniker": "Complet\\NumarComplex.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\NumarComplex.cpp",
+              "RelativeToolTip": "Complet\\NumarComplex.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T10:09:31.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Patrat.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Patrat.cpp",
+              "RelativeDocumentMoniker": "Complet\\Patrat.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Patrat.cpp",
+              "RelativeToolTip": "Complet\\Patrat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T10:09:50.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Repository.cpp",
+              "RelativeDocumentMoniker": "Complet\\Repository.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Repository.cpp",
+              "RelativeToolTip": "Complet\\Repository.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T10:10:58.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cerc.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Cerc.h",
+              "RelativeDocumentMoniker": "Complet\\Cerc.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\Cerc.h",
+              "RelativeToolTip": "Complet\\Cerc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T10:08:02.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TriunghiService.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\TriunghiService.cpp",
+              "RelativeDocumentMoniker": "Complet\\TriunghiService.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\TriunghiService.cpp",
+              "RelativeToolTip": "Complet\\TriunghiService.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T09:45:54.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TriunghiService.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\TriunghiService.h",
+              "RelativeDocumentMoniker": "Complet\\TriunghiService.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\TriunghiService.h",
+              "RelativeToolTip": "Complet\\TriunghiService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T09:58:18.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PatratService.cpp",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\PatratService.cpp",
+              "RelativeDocumentMoniker": "Complet\\PatratService.cpp",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\PatratService.cpp",
+              "RelativeToolTip": "Complet\\PatratService.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T09:56:59.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NumarComplexService.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\NumarComplexService.h",
+              "RelativeDocumentMoniker": "Complet\\NumarComplexService.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\NumarComplexService.h",
+              "RelativeToolTip": "Complet\\NumarComplexService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T09:55:01.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UI.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\UI.h",
+              "RelativeDocumentMoniker": "Complet\\UI.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\UI.h",
+              "RelativeToolTip": "Complet\\UI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T09:35:14.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PatratService.h",
+              "DocumentMoniker": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\PatratService.h",
+              "RelativeDocumentMoniker": "Complet\\PatratService.h",
+              "ToolTip": "C:\\Users\\ipetc\\OneDrive\\Desktop\\OOP\\Laborator_05\\Complet\\Complet\\PatratService.h",
+              "RelativeToolTip": "Complet\\PatratService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T09:54:53.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
